@@ -1,2 +1,3 @@
-# URLStackerPublic
-# Here's a demo of what URL Stacker Is like.
+# URLStacker DEMO
+![URLStacker in action](gif.gif)
+
