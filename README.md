@@ -1,2 +1,2 @@
 # URLStacker DEMO
-![URLStacker in action](assets/demo.gif)
+![URLStacker in action](gif.gif)
