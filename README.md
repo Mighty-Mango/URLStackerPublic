@@ -1,3 +1,5 @@
 # URLStacker DEMO
-![URLStacker in action](gif.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="URLStacker demo" width="100%"/>
+</p>
 
